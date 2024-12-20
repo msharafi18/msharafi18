@@ -30,7 +30,7 @@ I'm mohamad sharafi, a passionate and dedicated Flutter Developer with a strong 
 ## Skills
 ![Flutter](https://img.shields.io/badge/Flutter-%230175C2.svg?style=flat&logo=flutter&logoColor=FFFFFF)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=FFFFFF)
-![Python](https://img.shields.io/badge/python-%230175C2.svg?style=flat&logo=python&logoColor=FFFFFF))
+![Python](https://img.shields.io/badge/python-%230175C2.svg?style=flat&logo=python&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=FFFFFF)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=FFFFFF)
 ![GitLab](https://img.shields.io/badge/-GitLab-222222?style=flat&logo=GitLab&logoColor=FCC624)
